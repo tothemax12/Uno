@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(202,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(213,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(249,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(274,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(446,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(540,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(663,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(671,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Uno\Source.cpp(677): warning C4715: 'getCardIndex': not all control paths return a value
+  Uno.vcxproj -> C:\Users\ander\Desktop\Programs\C++ Programs\Uno\Debug\Uno.exe
